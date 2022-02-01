@@ -1,0 +1,1 @@
+cat("Happy Lunar New Year 2022!")
