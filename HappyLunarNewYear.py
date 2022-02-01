@@ -1,0 +1,1 @@
+print("Happy Lunar New Year 2022!")
